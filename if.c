@@ -28,4 +28,5 @@ varias lineas de codigo tienes que meter llaves de a huevo
 */
 else
     printf("tu numero es impar");
+return 0;
 }
